@@ -1,0 +1,58 @@
+.nav-link {
+     color: white;    
+}
+
+.circle {
+    height: 20rem;
+    width: 20rem;
+    background-color: #2C3E50;
+    border-radius: 50%;
+    z-index: 2;
+    position:absolute;
+    top: 20rem;
+    left: 45rem;
+}
+
+.HomeImage {
+    height: 60rem; 
+    width: 55rem; 
+    z-index: 1;
+}
+
+.myname { 
+    font-family: 'Righteous', cursive;
+    position:absolute;
+    top: 27rem;
+    left: 48rem;
+    z-index: 3;
+    color: white;
+}
+
+.HomeAbout {
+    position:absolute;
+    top: 6rem;
+    left: 50rem;
+}
+
+#AboutCard {
+    position:absolute;
+    top: 6rem;
+    left: 50rem;
+}
+
+.EducationImage {
+    height: 60rem; 
+    width: 40rem;
+}
+
+#EducationCard {
+    position:absolute;
+    top: 6rem;
+    left: 50rem;
+}
+
+#ExperienceCard {
+    position:absolute;
+    top: 6rem;
+    left: 85rem;
+}
